@@ -6,8 +6,6 @@
 ## 진행중인 스터디
 
 - [👨‍💻 TCP 클린코드 북 스터디](https://github.com/TeamCrazyPerformance/http)
-- [🐣 peep 자바스크립트 스터디](https://github.com/peep-peep-study/JS-peep-dive)
-- [🐣 peep 네트워크 스터디](https://github.com/peep-peep-study/Network-peep-dive)
 
 ## 진행중인 팀 프로젝트
 - [😊 모두 모여라, MOMO](https://github.com/woowacourse-teams/2022-momo)
