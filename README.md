@@ -9,6 +9,7 @@
 
 ## 진행중인 팀 프로젝트
 - [😊 모두 모여라, MOMO](https://github.com/woowacourse-teams/2022-momo)
+- [설맞이 계획 나눔 서비스 : 🧧조리복](https://github.com/Joribok/Joribok)
 
 ## 진행중인 개인 프로젝트
 - [🌱 blog](https://github.com/usageness/blog)
